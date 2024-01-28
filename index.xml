@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>malenkoy-elochke</repo>
-  <version>v1.0.2</version>
+  <version>v1.0.3</version>
   <next number="1" owner="stolbitsa" repo="submediant-minor"/>
   <readme>
     <en>3dab491da1d09f89d307fb7315ad9bcefac3e49db2b38134889aa16342aadc77</en>
@@ -43,21 +43,6 @@
     <bpm>87</bpm>
     <lowestNote>18</lowestNote>
     <tonalities>1</tonalities>
-    <video name="malenkoy-elochke2_.mp4" size="214410" type="video/mp4">f1f423f267f329949c780894362a89272afe2441a266d76605b2b50180990a5e</video>
-    <notes>
-      <note number="1" values="68" ticks="25" durationTicks="94" ppq="96" velocity="0.646"/>
-      <note number="2" values="188" ticks="122" durationTicks="44" ppq="96" velocity="0.626"/>
-      <note number="3" values="68" ticks="168" durationTicks="45" ppq="96" velocity="0.601"/>
-      <note number="4" values="58" ticks="221" durationTicks="88" ppq="96" velocity="0.666"/>
-      <note number="5" values="38" ticks="316" durationTicks="47" ppq="96" velocity="0.636"/>
-      <note number="6" values="38" ticks="366" durationTicks="48" ppq="96" velocity="0.624"/>
-    </notes>
-  </exercise>
-  <exercise number="4">
-    <scale>major</scale>
-    <bpm>87</bpm>
-    <lowestNote>18</lowestNote>
-    <tonalities>1</tonalities>
     <video name="malenkoy-elochke_.mp4" size="172618" type="video/mp4">517ee03436872ba771131757497016f682b1be592b675e0e73d3ee3f0aa0a5b3</video>
     <notes>
       <note number="1" values="58" ticks="25" durationTicks="94" ppq="96" velocity="0.646"/>
@@ -66,6 +51,20 @@
       <note number="4" values="58" ticks="216" durationTicks="93" ppq="96" velocity="0.666"/>
       <note number="5" values="38" ticks="312" durationTicks="47" ppq="96" velocity="0.636"/>
       <note number="6" values="38" ticks="361" durationTicks="48" ppq="96" velocity="0.624"/>
+    </notes>
+  </exercise>
+  <exercise number="4">
+    <scale>major</scale>
+    <bpm>87</bpm>
+    <lowestNote>18</lowestNote>
+    <tonalities>1</tonalities>
+    <video name="malenkoy-elochke3_.mp4" size="387558" type="video/mp4">06f9a5e5b60f37e3cff58dd6b32e743d41278c2f17c1b114730a1e28edeb8457</video>
+    <notes>
+      <note number="1" values="58" ticks="6" durationTicks="45" ppq="96" velocity="0.646"/>
+      <note number="2" values="48" ticks="52" durationTicks="44" ppq="96" velocity="0.626"/>
+      <note number="3" values="38" ticks="100" durationTicks="45" ppq="96" velocity="0.601"/>
+      <note number="4" values="28" ticks="148" durationTicks="47" ppq="96" velocity="0.666"/>
+      <note number="5" values="18" ticks="197" durationTicks="94" ppq="96" velocity="0.636"/>
     </notes>
   </exercise>
   <exercise number="5">
