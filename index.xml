@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+  <owner>stolbitsa</owner>
+  <repo>malenkoy-elochke</repo>
+  <version>v1.0.0</version>
+  <next number="1" owner="stolbitsa" repo="submediant-minor"/>
+  <readme>
+    <en>3dab491da1d09f89d307fb7315ad9bcefac3e49db2b38134889aa16342aadc77</en>
+    <ru>ba403b941c5483fdf5eaf8c1219b1d0ca974ad738c7aa0301d78c55c4313cf92</ru>
+  </readme>
+  <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
+  <exercise number="1">
+    <scale>major</scale>
+    <bpm>87</bpm>
+    <lowestNote>18</lowestNote>
+    <tonalities>1</tonalities>
+    <video name="malenkoy-elochke_.mp4" size="172618" type="video/mp4">517ee03436872ba771131757497016f682b1be592b675e0e73d3ee3f0aa0a5b3</video>
+    <notes>
+      <note number="1" values="58" ticks="25" durationTicks="94" ppq="96" velocity="0.646"/>
+      <note number="2" values="38" ticks="122" durationTicks="44" ppq="96" velocity="0.626"/>
+      <note number="3" values="38" ticks="168" durationTicks="45" ppq="96" velocity="0.601"/>
+      <note number="4" values="58" ticks="216" durationTicks="93" ppq="96" velocity="0.666"/>
+      <note number="5" values="38" ticks="312" durationTicks="47" ppq="96" velocity="0.636"/>
+      <note number="6" values="38" ticks="361" durationTicks="48" ppq="96" velocity="0.624"/>
+    </notes>
+  </exercise>
+  <exercise number="2">
+    <scale>major</scale>
+    <bpm>87</bpm>
+    <lowestNote>18</lowestNote>
+    <tonalities>1</tonalities>
+    <video name="malenkoy-elochke_.mp4" size="172618" type="video/mp4">517ee03436872ba771131757497016f682b1be592b675e0e73d3ee3f0aa0a5b3</video>
+    <notes>
+      <note number="1" values="58" ticks="25" durationTicks="94" ppq="96" velocity="0.646"/>
+      <note number="2" values="38" ticks="122" durationTicks="44" ppq="96" velocity="0.626"/>
+      <note number="3" values="38" ticks="168" durationTicks="45" ppq="96" velocity="0.601"/>
+      <note number="4" values="58" ticks="216" durationTicks="93" ppq="96" velocity="0.666"/>
+      <note number="5" values="38" ticks="312" durationTicks="47" ppq="96" velocity="0.636"/>
+      <note number="6" values="38" ticks="361" durationTicks="48" ppq="96" velocity="0.624"/>
+    </notes>
+  </exercise>
+  <exercise number="3">
+    <scale>major</scale>
+    <bpm>87</bpm>
+    <lowestNote>18</lowestNote>
+    <tonalities>1</tonalities>
+    <video name="malenkoy-elochke_.mp4" size="172618" type="video/mp4">517ee03436872ba771131757497016f682b1be592b675e0e73d3ee3f0aa0a5b3</video>
+    <notes>
+      <note number="1" values="58" ticks="25" durationTicks="94" ppq="96" velocity="0.646"/>
+      <note number="2" values="38" ticks="122" durationTicks="44" ppq="96" velocity="0.626"/>
+      <note number="3" values="38" ticks="168" durationTicks="45" ppq="96" velocity="0.601"/>
+      <note number="4" values="58" ticks="216" durationTicks="93" ppq="96" velocity="0.666"/>
+      <note number="5" values="38" ticks="312" durationTicks="47" ppq="96" velocity="0.636"/>
+      <note number="6" values="38" ticks="361" durationTicks="48" ppq="96" velocity="0.624"/>
+    </notes>
+  </exercise>
+  <exercise number="4">
+    <scale>major</scale>
+    <bpm>87</bpm>
+    <lowestNote>18</lowestNote>
+    <tonalities>1</tonalities>
+    <video name="malenkoy-elochke_.mp4" size="172618" type="video/mp4">517ee03436872ba771131757497016f682b1be592b675e0e73d3ee3f0aa0a5b3</video>
+    <notes>
+      <note number="1" values="58" ticks="25" durationTicks="94" ppq="96" velocity="0.646"/>
+      <note number="2" values="38" ticks="122" durationTicks="44" ppq="96" velocity="0.626"/>
+      <note number="3" values="38" ticks="168" durationTicks="45" ppq="96" velocity="0.601"/>
+      <note number="4" values="58" ticks="216" durationTicks="93" ppq="96" velocity="0.666"/>
+      <note number="5" values="38" ticks="312" durationTicks="47" ppq="96" velocity="0.636"/>
+      <note number="6" values="38" ticks="361" durationTicks="48" ppq="96" velocity="0.624"/>
+    </notes>
+  </exercise>
+  <exercise number="5">
+    <scale>major</scale>
+    <bpm>87</bpm>
+    <lowestNote>18</lowestNote>
+    <tonalities>1</tonalities>
+    <video name="malenkoy-elochke_.mp4" size="172618" type="video/mp4">517ee03436872ba771131757497016f682b1be592b675e0e73d3ee3f0aa0a5b3</video>
+    <notes>
+      <note number="1" values="58" ticks="25" durationTicks="94" ppq="96" velocity="0.646"/>
+      <note number="2" values="38" ticks="122" durationTicks="44" ppq="96" velocity="0.626"/>
+      <note number="3" values="38" ticks="168" durationTicks="45" ppq="96" velocity="0.601"/>
+      <note number="4" values="58" ticks="216" durationTicks="93" ppq="96" velocity="0.666"/>
+      <note number="5" values="38" ticks="312" durationTicks="47" ppq="96" velocity="0.636"/>
+      <note number="6" values="38" ticks="361" durationTicks="48" ppq="96" velocity="0.624"/>
+    </notes>
+  </exercise>
+  <exercise number="6">
+    <scale>major</scale>
+    <bpm>87</bpm>
+    <lowestNote>18</lowestNote>
+    <tonalities>1</tonalities>
+    <video name="malenkoy-elochke_.mp4" size="172618" type="video/mp4">517ee03436872ba771131757497016f682b1be592b675e0e73d3ee3f0aa0a5b3</video>
+    <notes>
+      <note number="1" values="58" ticks="25" durationTicks="94" ppq="96" velocity="0.646"/>
+      <note number="2" values="38" ticks="122" durationTicks="44" ppq="96" velocity="0.626"/>
+      <note number="3" values="38" ticks="168" durationTicks="45" ppq="96" velocity="0.601"/>
+      <note number="4" values="58" ticks="216" durationTicks="93" ppq="96" velocity="0.666"/>
+      <note number="5" values="38" ticks="312" durationTicks="47" ppq="96" velocity="0.636"/>
+      <note number="6" values="38" ticks="361" durationTicks="48" ppq="96" velocity="0.624"/>
+    </notes>
+  </exercise>
+  <exercise number="7">
+    <scale>major</scale>
+    <bpm>87</bpm>
+    <lowestNote>18</lowestNote>
+    <tonalities>1</tonalities>
+    <video name="malenkoy-elochke_.mp4" size="172618" type="video/mp4">517ee03436872ba771131757497016f682b1be592b675e0e73d3ee3f0aa0a5b3</video>
+    <notes>
+      <note number="1" values="58" ticks="25" durationTicks="94" ppq="96" velocity="0.646"/>
+      <note number="2" values="38" ticks="122" durationTicks="44" ppq="96" velocity="0.626"/>
+      <note number="3" values="38" ticks="168" durationTicks="45" ppq="96" velocity="0.601"/>
+      <note number="4" values="58" ticks="216" durationTicks="93" ppq="96" velocity="0.666"/>
+      <note number="5" values="38" ticks="312" durationTicks="47" ppq="96" velocity="0.636"/>
+      <note number="6" values="38" ticks="361" durationTicks="48" ppq="96" velocity="0.624"/>
+    </notes>
+  </exercise>
+</level>
