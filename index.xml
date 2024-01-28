@@ -2,11 +2,11 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>malenkoy-elochke</repo>
-  <version>v1.0.3</version>
-  <next number="1" owner="stolbitsa" repo="submediant-minor"/>
+  <version>v1.0.4</version>
+  <next number="1" owner="stolbitsa" repo="elochka"/>
   <readme>
-    <en>3dab491da1d09f89d307fb7315ad9bcefac3e49db2b38134889aa16342aadc77</en>
-    <ru>ba403b941c5483fdf5eaf8c1219b1d0ca974ad738c7aa0301d78c55c4313cf92</ru>
+    <en>141566cec8839abc25d474320260f54391353f55e5a7738ac84660472f46b9c7</en>
+    <ru>cafa1ed96eed0a3ad2948f32cfcf3b31f4f082ae9b489d9f370dee8c8a87ecc7</ru>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
