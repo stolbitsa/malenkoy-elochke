@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>malenkoy-elochke</repo>
-  <version>v1.0.8</version>
+  <version>v1.0.9</version>
   <next number="1" owner="stolbitsa" repo="elochka"/>
   <readme>
     <en>141566cec8839abc25d474320260f54391353f55e5a7738ac84660472f46b9c7</en>
@@ -72,14 +72,14 @@
     <bpm>87</bpm>
     <lowestNote>18</lowestNote>
     <tonalities>1</tonalities>
-    <video name="malenkoy-elochke_.mp4" size="172618" type="video/mp4">517ee03436872ba771131757497016f682b1be592b675e0e73d3ee3f0aa0a5b3</video>
+    <video name="malenkoy-elochke4_.mp4" size="332013" type="video/mp4">628b65b365310efc83ebbd878c511dbca0082a68c18f19df71ace2e84b77cc4f</video>
     <notes>
-      <note number="1" values="58" ticks="25" durationTicks="94" ppq="96" velocity="0.646"/>
-      <note number="2" values="38" ticks="122" durationTicks="44" ppq="96" velocity="0.626"/>
-      <note number="3" values="38" ticks="168" durationTicks="45" ppq="96" velocity="0.601"/>
-      <note number="4" values="58" ticks="216" durationTicks="93" ppq="96" velocity="0.666"/>
-      <note number="5" values="38" ticks="312" durationTicks="47" ppq="96" velocity="0.636"/>
-      <note number="6" values="38" ticks="361" durationTicks="48" ppq="96" velocity="0.624"/>
+      <note number="1" values="68" ticks="11" durationTicks="70" ppq="96" velocity="0.646"/>
+      <note number="2" values="188" ticks="96" durationTicks="44" ppq="96" velocity="0.626"/>
+      <note number="3" values="68" ticks="144" durationTicks="45" ppq="96" velocity="0.601"/>
+      <note number="4" values="58" ticks="192" durationTicks="92" ppq="96" velocity="0.666"/>
+      <note number="5" values="38" ticks="288" durationTicks="47" ppq="96" velocity="0.636"/>
+      <note number="6" values="38" ticks="337" durationTicks="48" ppq="96" velocity="0.624"/>
     </notes>
   </exercise>
   <exercise number="6">
