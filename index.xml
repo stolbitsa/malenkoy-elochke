@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>malenkoy-elochke</repo>
-  <version>v1.0.9</version>
+  <version>v1.0.10</version>
   <next number="1" owner="stolbitsa" repo="elochka"/>
   <readme>
     <en>141566cec8839abc25d474320260f54391353f55e5a7738ac84660472f46b9c7</en>
@@ -103,14 +103,13 @@
     <tonalities>1</tonalities>
     <video name="black-screen_0.mp4" size="4765" type="video/mp4">b9c83f2ca530cfb0a191753f17b696a29060644a4af1cbfb7e102838079ea8fe</video>
     <notes>
-      <note number="1" values="58" ticks="25" durationTicks="94" ppq="96" velocity="0.646"/>
-      <note number="2" values="38" ticks="122" durationTicks="44" ppq="96" velocity="0.626"/>
-      <note number="3" values="38" ticks="168" durationTicks="45" ppq="96" velocity="0.601"/>
-      <note number="4" values="58" ticks="216" durationTicks="93" ppq="96" velocity="0.666"/>
-      <note number="5" values="38" ticks="312" durationTicks="47" ppq="96" velocity="0.636"/>
-      <note number="6" values="38" ticks="361" durationTicks="48" ppq="96" velocity="0.624"/>
-      <note number="7" values="38" ticks="576" durationTicks="95" ppq="96" velocity="0.624"/>
-      <note number="8" values="38" ticks="672" durationTicks="95" ppq="96" velocity="0.624"/>
+      <note number="1" values="38" ticks="74" durationTicks="21" ppq="96" velocity="0.646"/>
+      <note number="2" values="58" ticks="95" durationTicks="48" ppq="96" velocity="0.626"/>
+      <note number="3" values="48" ticks="144" durationTicks="45" ppq="96" velocity="0.601"/>
+      <note number="4" values="38" ticks="192" durationTicks="48" ppq="96" velocity="0.666"/>
+      <note number="5" values="28" ticks="241" durationTicks="24" ppq="96" velocity="0.636"/>
+      <note number="6" values="38" ticks="264" durationTicks="24" ppq="96" velocity="0.624"/>
+      <note number="7" values="18" ticks="289" durationTicks="95" ppq="96" velocity="0.624"/>
     </notes>
   </exercise>
 </level>
